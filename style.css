@@ -5,6 +5,9 @@ background-size: cover;
 background-position: center center;
 }
 
+li span{
+font-size:4%;
+} 
 .text-large{
 color: #000000;
 font-size: 140%;
