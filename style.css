@@ -1,18 +1,20 @@
-body{
+.body{
 background-image:url(images/bg.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center center;
 }
 
-span{
-font-size:200%;
-} 
 .text-large{
 color: #000000;
 font-size: 140%;
 font-weight:800;
 opacity:1;
+}
+
+.silka{
+color:#FF73EA;
+font-size:120%;
 }
 
 .dz{
@@ -60,4 +62,13 @@ font-family:'Comic Sans MS';
 font-size:100%;
 font-weight:600;
 opacity:1;
+}
+
+.warning{
+color:#A60800;
+font-size:140%;
+font-weight:800;
+}
+.rotate-left{
+transform:rotate(-90deg);
 }
