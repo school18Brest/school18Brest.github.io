@@ -103,3 +103,9 @@ color:#F0384B;
 .fix{
 position:fixed;
 }
+
+.rot{
+transform:rotate(-90deg);
+font-size:200%;
+font-weight:900;
+}
